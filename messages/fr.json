@@ -5,10 +5,14 @@
   },
   "IndexPage": {
     "description": "Ceci est un exemple simple d'une page localisée.",
-    "title": "Bonjour le monde !"
+    "title": "Bonjour le monde !",
+    "link": "Aller à la page À propos"
   },
   "LocaleLayout": {
     "title": "Exemple internationalisation NextJS"
+  },
+  "AboutPage": {
+    "title": "À propos"
   },
   "NotFoundPage": {
     "description": "Veuillez vérifier la barre d'adresse du navigateur ou utilisez la navigation pour aller à une page connue.",
