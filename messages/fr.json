@@ -1,0 +1,21 @@
+{
+  "Error": {
+    "description": "<p>Nous avons malheureusement rencontré une erreur.</p><p>Vous pouvez essayer de <retry>recharger la page</retry> que vous visitiez.</p>",
+    "title": "Une erreur est survenue !"
+  },
+  "IndexPage": {
+    "description": "Ceci est un exemple simple d'une page localisée.",
+    "title": "Bonjour le monde !",
+    "link": "Aller à la page À propos"
+  },
+  "LocaleLayout": {
+    "title": "Exemple internationalisation NextJS"
+  },
+  "AboutPage": {
+    "title": "À propos"
+  },
+  "NotFoundPage": {
+    "description": "Veuillez vérifier la barre d'adresse du navigateur ou utilisez la navigation pour aller à une page connue.",
+    "title": "Page non trouvée"
+  }
+}
